@@ -13,3 +13,23 @@
  *= require_tree .
  *= require_self
  */
+ .container {
+  width: 600px;
+ }
+
+ .callout {
+  width: 600px;
+  padding: 20px 10px 5px 10px;
+  margin: 20px 0;
+  border: 1px solid #eee;
+  border-left-width: 10px;
+  border-radius: 3px;
+ }
+
+.callout-coach{
+  background-color: #ffffe0;
+}
+
+a {
+  text-decoration: none!important;
+}
